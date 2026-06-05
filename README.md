@@ -32,7 +32,7 @@ AI and I are practically best friends:
 
 | Spotlight | Link |
 |---|---|
-| **AI insect identifier** — Custom YOLOv5 model achieving 90% validation accuracy for multi-class insect classification. Deployed on an autonomous rover for edge-based environmental data collection. `YOLOv5` `PyTorch` `Python` `MongoDB` `Express` | [Insectect Identifier](https://github.com/Kevaunjh/insect-identification) |
+| **AI insect identifier** — Custom YOLOv5 model achieving 90% validation accuracy for multi-class insect classification. Deployed on an autonomous rover for edge-based environmental data collection. `YOLOv5` `PyTorch` `Python` `MongoDB` `Express` | [Insect Identifier](https://github.com/Kevaunjh/insect-identification) |
 | **AI calendar assistant** — Translates natural language into structured Google Calendar API calls via an LLM inference pipeline, with automated event creation, modification, and real-time sync. `LLM` `Node.js` `Google Calendar API` | [In Progress]() |
 | **Tesla stock prediction model** — Hybrid ML model combining time-series data with NLP sentiment analysis, achieving 70% directional prediction accuracy on weekly Tesla stock movement. `TensorFlow` `PyTorch` `NLP` `Python` | [Stock Predictoin](https://github.com/Kevaunjh/Stock-Prediction) |
 | **Story sentiment analyzer** — LLM-powered sentiment classification system for automated emotional inference from unstructured text, with multi-label predictions and RESTful backend integration. `LLM` `Node.js` `Express` `MongoDB` | [In Progress]() |
